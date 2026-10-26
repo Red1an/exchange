@@ -1,0 +1,8 @@
+bin/
+obj/
+.lifehub/
+.vs/
+*.user
+hub/
+node_modules/
+dist/
